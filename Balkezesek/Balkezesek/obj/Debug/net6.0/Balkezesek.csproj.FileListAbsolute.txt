@@ -1,0 +1,15 @@
+C:\Users\kelemen.panna\C#\Balkezesek\Balkezesek\bin\Debug\net6.0\Balkezesek.exe
+C:\Users\kelemen.panna\C#\Balkezesek\Balkezesek\bin\Debug\net6.0\Balkezesek.deps.json
+C:\Users\kelemen.panna\C#\Balkezesek\Balkezesek\bin\Debug\net6.0\Balkezesek.runtimeconfig.json
+C:\Users\kelemen.panna\C#\Balkezesek\Balkezesek\bin\Debug\net6.0\Balkezesek.dll
+C:\Users\kelemen.panna\C#\Balkezesek\Balkezesek\bin\Debug\net6.0\Balkezesek.pdb
+C:\Users\kelemen.panna\C#\Balkezesek\Balkezesek\obj\Debug\net6.0\Balkezesek.csproj.AssemblyReference.cache
+C:\Users\kelemen.panna\C#\Balkezesek\Balkezesek\obj\Debug\net6.0\Balkezesek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelemen.panna\C#\Balkezesek\Balkezesek\obj\Debug\net6.0\Balkezesek.AssemblyInfoInputs.cache
+C:\Users\kelemen.panna\C#\Balkezesek\Balkezesek\obj\Debug\net6.0\Balkezesek.AssemblyInfo.cs
+C:\Users\kelemen.panna\C#\Balkezesek\Balkezesek\obj\Debug\net6.0\Balkezesek.csproj.CoreCompileInputs.cache
+C:\Users\kelemen.panna\C#\Balkezesek\Balkezesek\obj\Debug\net6.0\Balkezesek.dll
+C:\Users\kelemen.panna\C#\Balkezesek\Balkezesek\obj\Debug\net6.0\refint\Balkezesek.dll
+C:\Users\kelemen.panna\C#\Balkezesek\Balkezesek\obj\Debug\net6.0\Balkezesek.pdb
+C:\Users\kelemen.panna\C#\Balkezesek\Balkezesek\obj\Debug\net6.0\Balkezesek.genruntimeconfig.cache
+C:\Users\kelemen.panna\C#\Balkezesek\Balkezesek\obj\Debug\net6.0\ref\Balkezesek.dll
